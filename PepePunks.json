@@ -1,7 +1,7 @@
 {
   "name": "PepePunks DAO",
   "description": "PepePunks are more than just digital art. PepePunks are a movement. A protest against the culture vultures that say WAGMI but leave their fellow degens in the dust, holding the bag. Together, we can use our voices & skills to enact change in the Web3 space that we call home. We will show them what it looks like when people stop fighting and start working together.",
-  "total_supply": 36,
+  "total_supply": 37,
   "logo_image_uri": "esc://ethscriptions/0x4666c45743f524a117c5f1dceb1612669c290f42e5a9563225166f0c4b16b52b/data",
   "banner_image_uri": "https://pbs.twimg.com/profile_banners/29918127/1698178420/1500x500",
   "background_color": "",
@@ -2260,6 +2260,68 @@
               "value": "@EWildn"
             }
           ]
-      }
+      },
+      {
+        "ethscription_id": "0x11d1654cc12588052b30f96adc71212486f8f25b2dd973a812c620f8f9ccf432",
+        "name": "PepePunk #37",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 36,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Cloudy Sky"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "WusGood.eth Hat"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Blue Hoodie"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Tyson Face Tattoo"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Diamond Grill"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "Gold Chain"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Pigeon"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Middle Finger"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#37"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Legendary"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@WusGood_eth"
+          }
+        ]
+    }
   ]
 }
