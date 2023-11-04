@@ -1,7 +1,7 @@
 {
   "name": "PepePunks DAO",
   "description": "PepePunks are more than just digital art. PepePunks are a movement. A protest against the culture vultures that say WAGMI but leave their fellow degens in the dust, holding the bag. Together, we can use our voices & skills to enact change in the Web3 space that we call home. We will show them what it looks like when people stop fighting and start working together.",
-  "total_supply": 37,
+  "total_supply": 44,
   "logo_image_uri": "https://pbs.twimg.com/profile_images/1717602634730020865/mKVHJ6RJ_400x400.jpg",
   "banner_image_uri": "https://pbs.twimg.com/profile_banners/29918127/1698178420/1500x500",
   "background_color": "",
@@ -361,7 +361,7 @@
           },
           {
               "trait_type": "Facial Hair",
-              "value": "None"
+              "value": "Coke Mustache"
           },
           {
               "trait_type": "Accessory",
@@ -2320,6 +2320,440 @@
           {
             "trait_type": "Commissioned by",
             "value": "@WusGood_eth"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0x39bc53319cb77837323c78253e1a29777bd4347f1ab139b0590467a092a6a523",
+        "name": "PepePunk #38",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 37,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Outer Space"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "Miner Helmet"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Lab Coat"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Aviators"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Joker Smile"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "Gold Chain"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Pickaxe"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Flamethrower"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#38"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Legendary"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@Web3pioneer"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0x3a2538f21db086a717a339358a54fb3ca188edd36ffbc20c6319b2a8770200a1",
+        "name": "PepePunk #39",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 38,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Countryside"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "Arborist Helmet"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Blue Hoodie"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Mesh Helmet Visor"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Joint"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "Gold Chain"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Cannabis Plant"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Chainsaw"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#39"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Legendary"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@phunkn1"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0x2a22dca826bebc0b4720f1056a2764628ba93bc13fe109af215658045d82f01e",
+        "name": "PepePunk #40",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 39,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Black"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "Devil Horns"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Naked Pepe"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "3D Glasses"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Diamond Grill"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "None"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "Fu Manchu"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Wrench"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Brass Knuckles"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#40"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Legendary"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@DeBlaze0x"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0xb3365694f7f2f710fa772c610edbdf59dc596a17d0cff451dad96e060c4eae29",
+        "name": "PepePunk #41",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 40,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Matrix Code"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "Punks Hoodie"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Hacker Hoodie"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Hacker Glasses"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Pepe Smirk"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "Diamond Necklace"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "Coke Mustache"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Bitcoin"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Hacker Laptop"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#41"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Legendary"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@Dreckskind_"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0xf48bd3d4231f718b4cbbd0bce0580e5c96a5d227e6af1c907482f51d7dcdd5af",
+        "name": "PepePunk #42",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 41,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Advice Rainbow"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "Pirate Captain's Hat"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "Long Wavy Brown"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Pirate Captain's Outfit"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Pirate Eyepatch"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Excited w/ Joint"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "Hidden One Piece"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "Pirate Beard"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "EthereRum"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Cutlass"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#42"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Legendary"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@ExpertAdviceWTF"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0x37a7c8120ce5517bee622be2350c0be1ce61b433f41f36e1c61cf9b07a9ac51d",
+        "name": "PepePunk #43",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 42,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Hulk SMASH!!"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "None"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "Brown Side-part"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Lab Coat"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Round Sunglasses"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Blunt"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "Stethoscope"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "Brown Full Beard"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Glowing Green Vial"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Fist"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#43"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Legendary"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@BadKarma617"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0x60ec343e53e773a11cd0db1246910aad98d1a949c43cf78b1e549f20572289ea",
+        "name": "PepePunk #44",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 43,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Breaking the Matrix"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "None"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "Pink Bun w/ Pencil"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "#TitsOutForPepe"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Closed w/ Open Third Eye"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Kissy Lips w/ Cannabis Leaf"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "None"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Red Pill"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Blue Pill"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#44"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Legendary"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@iSpyNASALies"
           }
         ]
     }
