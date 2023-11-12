@@ -1,7 +1,7 @@
 {
   "name": "PepePunks DAO",
   "description": "PepePunks are more than just digital art. PepePunks are a movement. A protest against the culture vultures that say WAGMI but leave their fellow degens in the dust, holding the bag. Together, we can use our voices & skills to enact change in the Web3 space that we call home. We will show them what it looks like when people stop fighting and start working together.",
-  "total_supply": 44,
+  "total_supply": 51,
   "logo_image_uri": "https://pbs.twimg.com/profile_images/1717602634730020865/mKVHJ6RJ_400x400.jpg",
   "banner_image_uri": "https://pbs.twimg.com/profile_banners/29918127/1698178420/1500x500",
   "background_color": "",
@@ -67,7 +67,7 @@
               },
               {
                 "trait_type": "Class",
-                "value": "Legendary"
+                "value": "Epic"
               },
               {
                 "trait_type": "Commissioned by",
@@ -129,7 +129,7 @@
           },
           {
             "trait_type": "Class",
-            "value": "Legendary"
+            "value": "Epic"
           },
           {
             "trait_type": "Commissioned by",
@@ -191,7 +191,7 @@
           },
           {
             "trait_type": "Class",
-            "value": "Legendary"
+            "value": "Epic"
           },
           {
             "trait_type": "Commissioned by",
@@ -253,7 +253,7 @@
           },
           {
             "trait_type": "Class",
-            "value": "Legendary"
+            "value": "Epic"
           },
           {
             "trait_type": "Commissioned by",
@@ -315,7 +315,7 @@
           },
           {
             "trait_type": "Class",
-            "value": "Legendary"
+            "value": "Epic"
           },
           {
             "trait_type": "Commissioned by",
@@ -377,7 +377,7 @@
           },
           {
             "trait_type": "Class",
-            "value": "Legendary"
+            "value": "Epic"
           },
           {
             "trait_type": "Commissioned by",
@@ -439,7 +439,7 @@
           },
           {
             "trait_type": "Class",
-            "value": "Legendary"
+            "value": "Epic"
           },
           {
             "trait_type": "Commissioned by",
@@ -501,7 +501,7 @@
           },
           {
             "trait_type": "Class",
-            "value": "Legendary"
+            "value": "Epic"
           },
           {
             "trait_type": "Commissioned by",
@@ -567,7 +567,7 @@
           },
           {
             "trait_type": "Class",
-            "value": "Legendary"
+            "value": "Epic"
           },
           {
             "trait_type": "Commissioned by",
@@ -629,7 +629,7 @@
           },
           {
             "trait_type": "Class",
-            "value": "Legendary"
+            "value": "Epic"
           },
           {
             "trait_type": "Commissioned by",
@@ -691,7 +691,7 @@
           },
           {
             "trait_type": "Class",
-            "value": "Legendary"
+            "value": "Epic"
           },
           {
             "trait_type": "Commissioned by",
@@ -753,7 +753,7 @@
           },
           {
             "trait_type": "Class",
-            "value": "Legendary"
+            "value": "Epic"
           },
           {
             "trait_type": "Commissioned by",
@@ -815,7 +815,7 @@
           },
           {
             "trait_type": "Class",
-            "value": "Legendary"
+            "value": "Epic"
           },
           {
             "trait_type": "Commissioned by",
@@ -877,7 +877,7 @@
             },
             {
               "trait_type": "Class",
-              "value": "Legendary"
+              "value": "Epic"
             },
             {
               "trait_type": "Commissioned by",
@@ -939,7 +939,7 @@
             },
             {
               "trait_type": "Class",
-              "value": "Legendary"
+              "value": "Epic"
             },
             {
               "trait_type": "Commissioned by",
@@ -1001,7 +1001,7 @@
             },
             {
               "trait_type": "Class",
-              "value": "Legendary"
+              "value": "Epic"
             },
             {
               "trait_type": "Commissioned by",
@@ -1067,7 +1067,7 @@
             },
             {
               "trait_type": "Class",
-              "value": "Legendary"
+              "value": "Epic"
             },
             {
               "trait_type": "Commissioned by",
@@ -1129,7 +1129,7 @@
             },
             {
               "trait_type": "Class",
-              "value": "Legendary"
+              "value": "Epic"
             },
             {
               "trait_type": "Commissioned by",
@@ -1195,7 +1195,7 @@
             },
             {
               "trait_type": "Class",
-              "value": "Legendary"
+              "value": "Epic"
             },
             {
               "trait_type": "Commissioned by",
@@ -1257,7 +1257,7 @@
             },
             {
               "trait_type": "Class",
-              "value": "Legendary"
+              "value": "Epic"
             },
             {
               "trait_type": "Commissioned by",
@@ -1319,7 +1319,7 @@
             },
             {
               "trait_type": "Class",
-              "value": "Legendary"
+              "value": "Epic"
             },
             {
               "trait_type": "Commissioned by",
@@ -1381,7 +1381,7 @@
             },
             {
               "trait_type": "Class",
-              "value": "Legendary"
+              "value": "Epic"
             },
             {
               "trait_type": "Commissioned by",
@@ -1443,7 +1443,7 @@
             },
             {
               "trait_type": "Class",
-              "value": "Legendary"
+              "value": "Epic"
             },
             {
               "trait_type": "Commissioned by",
@@ -1505,7 +1505,7 @@
             },
             {
               "trait_type": "Class",
-              "value": "Legendary"
+              "value": "Epic"
             },
             {
               "trait_type": "Commissioned by",
@@ -1567,7 +1567,7 @@
             },
             {
               "trait_type": "Class",
-              "value": "Legendary"
+              "value": "Epic"
             },
             {
               "trait_type": "Commissioned by",
@@ -1629,7 +1629,7 @@
             },
             {
               "trait_type": "Class",
-              "value": "Legendary"
+              "value": "Epic"
             },
             {
               "trait_type": "Commissioned by",
@@ -1695,7 +1695,7 @@
             },
             {
               "trait_type": "Class",
-              "value": "Legendary"
+              "value": "Epic"
             },
             {
               "trait_type": "Commissioned by",
@@ -1757,7 +1757,7 @@
             },
             {
               "trait_type": "Class",
-              "value": "Legendary"
+              "value": "Epic"
             },
             {
               "trait_type": "Commissioned by",
@@ -1819,7 +1819,7 @@
             },
             {
               "trait_type": "Class",
-              "value": "Legendary"
+              "value": "Epic"
             },
             {
               "trait_type": "Commissioned by",
@@ -1881,7 +1881,7 @@
             },
             {
               "trait_type": "Class",
-              "value": "Legendary"
+              "value": "Epic"
             },
             {
               "trait_type": "Commissioned by",
@@ -1943,7 +1943,7 @@
             },
             {
               "trait_type": "Class",
-              "value": "Legendary"
+              "value": "Epic"
             },
             {
               "trait_type": "Commissioned by",
@@ -2005,7 +2005,7 @@
             },
             {
               "trait_type": "Class",
-              "value": "Legendary"
+              "value": "Epic"
             },
             {
               "trait_type": "Commissioned by",
@@ -2067,7 +2067,7 @@
             },
             {
               "trait_type": "Class",
-              "value": "Legendary"
+              "value": "Epic"
             },
             {
               "trait_type": "Commissioned by",
@@ -2129,7 +2129,7 @@
             },
             {
               "trait_type": "Class",
-              "value": "Legendary"
+              "value": "Epic"
             },
             {
               "trait_type": "Commissioned by",
@@ -2191,7 +2191,7 @@
             },
             {
               "trait_type": "Class",
-              "value": "Legendary"
+              "value": "Epic"
             },
             {
               "trait_type": "Commissioned by",
@@ -2253,7 +2253,7 @@
             },
             {
               "trait_type": "Class",
-              "value": "Legendary"
+              "value": "Epic"
             },
             {
               "trait_type": "Commissioned by",
@@ -2307,7 +2307,7 @@
           },
           {
             "trait_type": "Weapon",
-            "value": "Middle Finger"
+            "value": "FUCK OFF!"
           },
           {
               "trait_type": "Custom PepePunk",
@@ -2315,7 +2315,7 @@
           },
           {
             "trait_type": "Class",
-            "value": "Legendary"
+            "value": "Epic"
           },
           {
             "trait_type": "Commissioned by",
@@ -2377,7 +2377,7 @@
           },
           {
             "trait_type": "Class",
-            "value": "Legendary"
+            "value": "Epic"
           },
           {
             "trait_type": "Commissioned by",
@@ -2439,7 +2439,7 @@
           },
           {
             "trait_type": "Class",
-            "value": "Legendary"
+            "value": "Epic"
           },
           {
             "trait_type": "Commissioned by",
@@ -2501,7 +2501,7 @@
           },
           {
             "trait_type": "Class",
-            "value": "Legendary"
+            "value": "Epic"
           },
           {
             "trait_type": "Commissioned by",
@@ -2563,7 +2563,7 @@
           },
           {
             "trait_type": "Class",
-            "value": "Legendary"
+            "value": "Epic"
           },
           {
             "trait_type": "Commissioned by",
@@ -2625,7 +2625,7 @@
           },
           {
             "trait_type": "Class",
-            "value": "Legendary"
+            "value": "Epic"
           },
           {
             "trait_type": "Commissioned by",
@@ -2687,7 +2687,7 @@
           },
           {
             "trait_type": "Class",
-            "value": "Legendary"
+            "value": "Epic"
           },
           {
             "trait_type": "Commissioned by",
@@ -2749,11 +2749,445 @@
           },
           {
             "trait_type": "Class",
-            "value": "Legendary"
+            "value": "Epic"
           },
           {
             "trait_type": "Commissioned by",
             "value": "@iSpyNASALies"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0x6a8b0ff849871abf74ac613fe64e6cf21d86e48b25da9201caca32150eadcbbc",
+        "name": "PepePunk #45",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 44,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Ethscriptions Green"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "MAGA Hat"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Trump Suit"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Pit Vipers"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Gold Grill"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "Diamond Necklace"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "Brown Full Beard"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Diamond Hands"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "AK-47"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#45"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@BigHodlsworth"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0x6d37680d5fd65a0559ca96728a8d80a0bbccc9752234ec05ba32ee651311ba84",
+        "name": "PepePunk #46",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 45,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Sunset Gradient"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "None"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "Clark Kent"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Trump Suit"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Aviators"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Excited"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "None"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "Black Full Beard"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Frog"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Magic"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#46"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@PylonsXPP"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0x5e11806792e6fd33bfc10fd551e57fdc36d0ac68fa61f8d84502ae72b60997e9",
+        "name": "PepePunk #47",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 46,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Yellow"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "None"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "Long Yellow Mohawk"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Tuxedo"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Nouns Noggles"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Gold Grill"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "Gold Chain"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "Brown Goatee"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Frog"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "FUCK OFF!"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#47"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@MrYellow1899"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0xfb0419b2fa4f0828b3ecc6311107de0a2400126be79c796c037f579faef040d4",
+        "name": "PepePunk #48",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 47,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Green"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "Cowboy Hat"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Suit & Tie"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "X Eyes"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Gold Grill"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "Gold Chain"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "Brown Pencil Stache"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Parrot"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Light Saber"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#48"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@GuzmanMrbryan"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0xcddd36eb1e59c0d2d2952a3548f68014637c76d255d3c169bc5222a432268117",
+        "name": "PepePunk #49",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 48,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Matrix Code"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "None"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "Long Wavy Black"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Tie-Die Shirt"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Stoned"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Joint"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "Mala"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Magic Mushroom"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "FUCK OFF!"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#49"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@DegenDyke"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0x5c3e5bf78ede766586ed144fb0cb061126c995c6c1d9bb9ce1b7e2c37326c52d",
+        "name": "PepePunk #50",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 49,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Countryside"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "Blue Flipped Brim Hat"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Denim Jacket"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Aviators"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Cigarette"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "None"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Acoustic Guitar"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Earth Energy"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#50"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@JoeRianMusic"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0xe1ae74954a257111e205c2159a7a6eff5c24ca6bcf475999cd3f1bc072a910f1",
+        "name": "PepePunk #51",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 50,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "City"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "MAGA Hat"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Trump Suit"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Demon"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Vampire Teeth"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "None"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Golden Microphone"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Mini-Nuke"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#51"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@SunriseBud1"
           }
         ]
     }
