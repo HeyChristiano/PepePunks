@@ -1,7 +1,7 @@
 {
   "name": "PepePunks DAO",
   "description": "PepePunks are more than just digital art. PepePunks are a movement. A protest against the culture vultures that say WAGMI but leave their fellow degens in the dust, holding the bag. Together, we can use our voices & skills to enact change in the Web3 space that we call home. We will show them what it looks like when people stop fighting and start working together.",
-  "total_supply": 51,
+  "total_supply": 70,
   "logo_image_uri": "https://pbs.twimg.com/profile_images/1717602634730020865/mKVHJ6RJ_400x400.jpg",
   "banner_image_uri": "https://pbs.twimg.com/profile_banners/29918127/1698178420/1500x500",
   "background_color": "",
@@ -3188,6 +3188,1184 @@
           {
             "trait_type": "Commissioned by",
             "value": "@SunriseBud1"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0xa7ea7bc498d0099027510a297740b380f0973a2f3d08ae9585baf9a6ec12ae48",
+        "name": "PepePunk #52",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 51,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Outer Space"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "Dennim Cowboy Hat"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "Red Long Hair"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "#TitsOutForPepe"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Heart Eyes"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Happy"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "Diamond Necklace"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Golden Microphone"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Fire Energy"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#52"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@SDefiPyro"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0x2fbc04305eb021167c2cf5af347aebfb1d4fe5a676c2deae028ae830f986360e",
+        "name": "PepePunk #53",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 52,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Classroom"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "Graduation Cap"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Suit & Bowtie"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Nerdy Glasses"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Excited"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "None"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "Goatee"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Book"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Knowledge"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#53"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@WillTSBUDAO"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0xc8cb450cb45262ef733772e05d87cf725a456b255bd0afade5f06d32919a1778",
+        "name": "PepePunk #54",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 53,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Outer Space"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "None"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "Guido"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Bomber Jacket"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Aviators"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Excited"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "Gold Crucifix Chain"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "Bkack"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Peace"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Love"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#54"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@Era3TV"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0x72c4c9aece7b4d4a9905a57cfc5569000620950bab272b7b1f4a7e9c72d3ad69",
+        "name": "PepePunk #55",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 54,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Magic Kingdom"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "Mickey Ears"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "Guido"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Walt's Suit"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Laser Eyes"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Excited"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "None"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Mickey Plushie"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "The Sword in the Stone"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#55"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@WaltDisIF"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0x28ac6c40fa302aa7c24602e1c48ba9d0b305c291fe04f432082dd8f1cb0ee358",
+        "name": "PepePunk #56",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 55,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Matrix Code"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "Golden Headphones"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Gucci Hoodie"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "X-Ray Glasses"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Diamond Grill"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "None"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "Coke Mustache"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Gold Bricks"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Gambit Card"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#56"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@CHICITY_NFT"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0x1d597baefbe4c4c967ff2742ae790c30dc4d9461a637cbcf547677880ab10b25",
+        "name": "PepePunk #57",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 56,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Rainbow Color"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "Punks Hoodie"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Sensei Hakama"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "VR Headset"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Excited"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "None"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "MFPurr"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Fire Energy"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#57"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@TravisNFTss"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0xe2213c869d28f2b115129a204ae259748c8c0b7c1168a76a37c679c3609f97be",
+        "name": "PepePunk #58",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 57,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Matrix Code"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "Punks Hoodie"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Wizard Robe"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "VR Headset"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Puking Rainbow"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "None"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "Wizard Beard"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "FUCK OFF!"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "FUCK OFF!"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#58"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@FB_WSB"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0x6c021b028cbdb0d8989886c7c5a33e36e7623cfa2531f7aa38fce7feb3bb1cab",
+        "name": "PepePunk #59",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 58,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Ethscriptions Green"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "Tiara"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "Long Wavy Brown"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Little Black Dress"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Blindfold"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Excited"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "Gold Crucifix Chain"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Bunny Rabbit"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Love"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#9"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@Star_WSB"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0x762bdb9e5b26675d6151f639169c822471de34d8b5ab99a1b231665fdce239ce",
+        "name": "PepePunk #60",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 59,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Night Sky"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "BobbyZoo TopHat"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Guinea Tee"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Pit Vipers"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Diamond Grill"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "Diamond Necklace"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "Brown Full Beard"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Cigarette"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Baseball Bat"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#60"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@BobbyZoo_ba"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0xab9b263f5ae139c8666b146fe191bd5482dad593d3315a64da1b0d5a89e39c0a",
+        "name": "PepePunk #61",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 60,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Matrix Code"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "Devil Horns"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Deadpool Suit"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Deadpool Mask"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Constantly Running"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "None"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Taco Bell"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Uzi"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#61"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@Nitric__"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0xa0bc7889f6c125e7e8a3be1bf850378f6794f16beff3a247299435ff1aedce25",
+        "name": "PepePunk #62",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 61,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Outer Space"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "None"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "Blonde Pigtails"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "#TitsOutForPepe"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Third Eye"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Blunt w/ Lipstick"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "None"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Platypus"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Love"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#62"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@Laureen_11_11_"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0x091afafa01b5ab1d4a2e2cc0478d51c0ab68cc2aa3e71095be4eb5cb418fd139",
+        "name": "PepePunk #63",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 62,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Night Sky"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "Pirate Hat"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "Orange Bandana"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Pirate Outfit"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Pirate Eyepatch"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Gold Grill"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "Amulet of Pepe"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "Pirate Beard"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Parrot"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Blunderbuss"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#63"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@bjingos"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0x7019c6096630c24f5c1799bf6817bf199198e1ad1610be73ab630a3e9a14b11f",
+        "name": "PepePunk #64",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 63,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "City"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "Ski Mask"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Sweater Vest"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Angry"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Diamond Grill"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "None"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Pigeon of NY"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Brick"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#64"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@Smartzworld"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0x5102bc9f5eb9c9f2e63d399ccdad20e44bb2327bcdf0559a0aa0348bc5873e85",
+        "name": "PepePunk #65",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 64,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "City"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "Blue Snapback"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Naked Pepe"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Aviators"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Excited"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "None"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Pizza"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Megaman Cannon"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#64"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@PigeonsofNY_NFT"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0xb574580eea736de3a7c2f545103329ba2b91514490ddc14fe7dc6f96329de9b2",
+        "name": "PepePunk #66",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 65,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Night Sky"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "Crown"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Naked Pepe"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Angry"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Gold Grill"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "Gold Chain"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Money Bag"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Lucille"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#66"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@RomeJay_88"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0x2b3281358fe63e6dbd9ce1cb30ac1486ab05242a6afa99b6eb207488a829fc09",
+        "name": "PepePunk #67",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 66,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Matrix Code"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "None"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Naby Blue T-Shirt"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Closed"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Sad"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "None"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Guy Fawkes Mask"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Comedy"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#67"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@MandrakeMetal"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0x630a88e1c1dd3bb7e6f9bee38c83f6ccf2b8d8ef9277223fe8ca5404927b6df1",
+        "name": "PepePunk #68",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 67,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Cotton Candy Gradient"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "Purple Beanie"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Formal Suit"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Blue & Stoned"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Pipe"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "Diamond Necklace"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "Wizard Beard"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Grey Cat"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Peace"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#68"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@PainWavesBand"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0x4e60a601a9f33b6b31b3ba35a1d8bce3dfff1b491fec41531f1904328d859433",
+        "name": "PepePunk #69",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 68,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Formula 69 Colors"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "None"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "Long Curly Black"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "KISS Outfit"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Black Eyeshadow"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Tongue Out"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "Gold Crucifix Chain"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "Black Full Beard"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Beer Bottle"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Formula 69's Guitar"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#69"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@FSixtyNine"
+          }
+        ]
+    },
+    {
+        "ethscription_id": "0x1b5322387889b940e8c7c9ecb7cb308d8bc3638dc778ec3a7981e9d3097245fd",
+        "name": "PepePunk #70",
+        "description": "",
+        "external_url": "",
+        "background_color": "",
+        "item_index": 69,
+        "item_attributes": [
+          {
+              "trait_type": "Background",
+              "value": "Copper"
+          },
+          {
+              "trait_type": "Hat",
+              "value": "None"
+          },
+          {
+              "trait_type": "Hair",
+              "value": "Ziggy Stardust Hair"
+          },
+          {
+              "trait_type": "Outfit",
+              "value": "Ziggy Stardust Jumpsuit"
+          },
+          {
+              "trait_type": "Eyes",
+              "value": "Ziggy Stardust"
+          },
+          {
+              "trait_type": "Mouth",
+              "value": "Excited"
+          },
+          {
+              "trait_type": "Necklace",
+              "value": "None"
+          },
+          {
+              "trait_type": "Facial Hair",
+              "value": "None"
+          },
+          {
+              "trait_type": "Accessory",
+              "value": "Bowie's Blue Guitar"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Bowie Knife"
+          },
+          {
+              "trait_type": "Custom PepePunk",
+              "value": "#70"
+          },
+          {
+            "trait_type": "Class",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Commissioned by",
+            "value": "@AuraDeluxe"
           }
         ]
     }
