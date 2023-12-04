@@ -6390,7 +6390,7 @@
     {
       "trait_type": "Wings",
       "value": "None"
-    }
+    },
     {
       "trait_type": "Class",
       "value": "Uncommon"
@@ -6852,7 +6852,7 @@
     {
       "trait_type": "Wings",
       "value": "None"
-    }
+    },
         {
           "trait_type": "Class",
           "value": "Uncommon"
@@ -7507,8 +7507,7 @@
     {
       "trait_type": "Wings",
       "value": "None"
-    }
-,
+    },
         {
           "trait_type": "Class",
           "value": "Uncommon"
