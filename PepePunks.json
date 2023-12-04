@@ -1,7 +1,7 @@
 {
   "name": "PepePunks DAO",
   "description": "PepePunks are more than just digital art. PepePunks are a movement. A protest against the culture vultures that say WAGMI but leave their fellow degens in the dust, holding the bag. Together, we can use our voices & skills to enact change in the Web3 space that we call home. We will show them what it looks like when people stop fighting and start working together.",
-  "total_supply": 100,
+  "total_supply": 132,
   "logo_image_uri": "https://pbs.twimg.com/profile_images/1717602634730020865/mKVHJ6RJ_400x400.jpg",
   "banner_image_uri": "https://pbs.twimg.com/profile_banners/29918127/1698178420/1500x500",
   "background_color": "",
@@ -5887,7 +5887,1631 @@
                 "value": "Uncommon"
               }
         ]
+    },
+    {
+      "ethscription_id": "0xe6190f948c0c30e8252c1348b90ab63b15f852a9f2adcb647622270d45c42d53",
+      "name": "PepePunk #101",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 100,
+      "item_attributes": [
+        {
+          "trait_type": "Accessory",
+          "value": "Ethererum"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Teal"
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "Heart T-Shirt"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Nerd Glasses"
+        },
+        {
+          "trait_type": "Facial Hair",
+          "value": "Fu Manchu"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Long Neon Cyan Mohawk"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Vampire Fangs"
+        },
+        {
+          "trait_type": "Necklace",
+          "value": "Platinum Chain"
+        },
+        {
+          "trait_type": "Weapon",
+          "value": "Bowie Knife"
+        },
+        {
+          "trait_type": "Wings",
+          "value": "None"
+        },
+            {
+              "trait_type": "Class",
+              "value": "Uncommon"
+            }
+      ]
+  },
+  {
+    "ethscription_id": "0xb69e12c6a89290c4e0984ae687d9b2c63e13a50de2581237d7bd9a0e68cd9c4e",
+    "name": "PepePunk #102",
+    "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_index": 101,
+    "item_attributes": [
+      {
+        "trait_type": "Accessory",
+        "value": "FUCK OFF!"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Rainbow Colors"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Blue Hoodie"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "3D Glasses"
+      },
+      {
+        "trait_type": "Facial Hair",
+        "value": "Wizard Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Cannabis Leaf"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Wisdom"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "None"
+      },
+          {
+            "trait_type": "Class",
+            "value": "Uncommon"
+          }
+    ]
+},
+{
+  "ethscription_id": "0xfd7380116cccee6c8e4a3dc33f6bc3a435fef2c2b332ef3b9e639eff294b1e49",
+  "name": "PepePunk #103",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 102,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Ethereum"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "#TitsOutForPepe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Eyes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pink-Pigtails"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy Face"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Lady Gold Crucifix"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Wizard Staff"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Angel Wings"
+    },
+        {
+          "trait_type": "Class",
+          "value": "Rare"
+        }
+  ]
+},
+
+{
+  "ethscription_id": "0x232080f81b3057aa3b6d013eccb9754b795b61f4918ad9a13c7098273a674f24",
+  "name": "PepePunk #104",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 103,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Bitcoin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Burn this City Down!"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Lady Pirate Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pit Vipers"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bunny Ears"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smug Smile"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Lady Gold Crucifix"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Wisdom"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "None"
+    },
+        {
+          "trait_type": "Class",
+          "value": "Uncommon"
+        }
+  ]
+},
+{
+  "ethscription_id": "0x30be73eddd3179a2904e60ad32d5aa4e20ea91afe9ed80c80b5d2c29e0bd16ca",
+  "name": "PepePunk #105",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 104,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Ethererum"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Little Black Dress"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Eyeshadow"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Biker Helmet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blunt w/ Lipstick"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Lady Gold Crucifix"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Sawed-Off Shotgun"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "None"
+    },
+        {
+          "trait_type": "Class",
+          "value": "Uncommon"
+        }
+  ]
+},
+{
+  "ethscription_id": "0x6142e12373d051750d266a37dd8553eb4619681bbe433e5685282d6cd6e455bf",
+  "name": "PepePunk #106",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 105,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Pickaxe"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Captain's Pirate Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Banker Glasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Miner Helmet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Green Blunt"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Gold Crucifix"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Brass Knuckles"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "None"
+    },
+        {
+          "trait_type": "Class",
+          "value": "Uncommon"
+        }
+  ]
+},
+{
+  "ethscription_id": "0x0bc9da75a784397bd47aeb0f479aa383e1bbf5fac04709e6c9507eba9ababacb",
+  "name": "PepePunk #107",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 106,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Beer Bottle"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cannabis Farm"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "8-Ball Eyes"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Fu Manchu"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Brown Wavy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Excited w/ Joint"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Barbed "
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Cutlass"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "None"
+    },
+        {
+          "trait_type": "Class",
+          "value": "Uncommon"
+        }
+  ]
+},
+{
+  "ethscription_id": "0x80b9d2b387c3a6501dc7ddf6806db57061d4da565413d4092bd418d8451d1741",
+  "name": "PepePunk #108",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 107,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Cigar"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Countryside"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pirate Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Snake Eyes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy Face"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Bowie Knife"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "None"
+    },
+        {
+          "trait_type": "Class",
+          "value": "Uncommon"
+        }
+  ]
+},
+{
+  "ethscription_id": "0x16ebb437b14a7267a04ca133f6cf249a2aa5c345b7798727c26e5f6756a6413d",
+  "name": "PepePunk #109",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 108,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Diamond Hands"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Black Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviators"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blunt w/ Lipstick"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Barbed Wire"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Comedy"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "None"
+    },
+        {
+          "trait_type": "Class",
+          "value": "Uncommon"
+        }
+  ]
+},
+{
+  "ethscription_id": "0x4628953681c2360e5fe6086a17d4854a7babcab16b8f490b6faaf53a28c69fb7",
+  "name": "PepePunk #110",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 109,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Mickey Mouse"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Little Black Dress"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "X-Ray Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Black Curly"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Braces"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Lady Gold Crucifix"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Wizard Staff"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "None"
+    }
+    {
+      "trait_type": "Class",
+      "value": "Uncommon"
+    }
+  ]
+},
+{
+  "ethscription_id": "0x75f9288d47b4ae01aebe486c4b329e5294cf98ee074212e33dbfd85ef9b271ec",
+  "name": "PepePunk #111",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 110,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Money Bag"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Guinea Tee"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Eyes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Black Wavy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blunt w/ Lipstick"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "$Pepe Ledger"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Sawed-Off Shotgun"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "None"
+    },
+        {
+          "trait_type": "Class",
+          "value": "Uncommon"
+        }
+  ]
+},
+{
+  "ethscription_id": "0xf74c9a464bae2748f0ad93e68476e812b9880105a5ac49757d4297c963685bbb",
+  "name": "PepePunk #112",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 111,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Frog"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terminator Eye"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Coke Mustache"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Neon Yellow Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blunt"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Straight Tie"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Spectral Energy"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Demon Wings"
+    },
+        {
+          "trait_type": "Class",
+          "value": "Rare"
+        }
+  ]
+},
+{
+  "ethscription_id": "0x29c6f8ed087a2970b118bc243cae89a52a14f2e6a771f6836265a43cbefa9615",
+  "name": "PepePunk #113",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 112,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Whiskey Bottle"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Outer Space"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "#TitsOutForPepe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stoned"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Devil Horns"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joker Smile"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Lady Gold Crucifix"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Electric Energy"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "None"
+    },
+        {
+          "trait_type": "Class",
+          "value": "Uncommon"
+        }
+  ]
+},
+{
+  "ethscription_id": "0x79d9cca71d8c2e279bd2aac34ecfb792b33125c665671870b02674a070094514",
+  "name": "PepePunk #114",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 113,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Ethereum"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cotton Candy Gradient"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Little Black Dress"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Eyeshadow"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blunt w/ Lipstick"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Lady Gold Crucifix"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "AK-47"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "None"
+    },
+        {
+          "trait_type": "Class",
+          "value": "Uncommon"
+        }
+  ]
+},
+{
+  "ethscription_id": "0xfd27b08abde1d84bd832171493f804d5d045af9735541f4c5ca856054f08e674",
+  "name": "PepePunk #115",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 114,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Money Bag"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Overalls"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "X Soulpatch"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Blue Snapback"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Puking Rainbows"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "$Pepe Ledger"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Air Energy"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "None"
+    },
+        {
+          "trait_type": "Class",
+          "value": "Uncommon"
+        }
+  ]
+},
+{
+  "ethscription_id": "0x30ea31fd53176af5c91cba7a95754eb5900dfc89ff4637ae4f0f844b5590c1ed",
+  "name": "PepePunk #116",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 115,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Frog"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tuxedo"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "$ Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy Face"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Tight Gold Chain"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Chainsaw"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Demon Wings"
+    },
+        {
+          "trait_type": "Class",
+          "value": "Rare"
+        }
+  ]
+},
+{
+  "ethscription_id": "0xf148519d6f05852a3b561a5a1d9bc360006f8f3c16169c8011b667cbd756d65e",
+  "name": "PepePunk #117",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 116,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Ethererum"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tie-Dye T-Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bugged out"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Grey Full Beard"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Graduation Cap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Mala"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Uzi"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "None"
+    },
+        {
+          "trait_type": "Class",
+          "value": "Rare"
+        }
+  ]
+},
+{
+  "ethscription_id": "0x0f8cb22c222439a8f784ee314efcac08d3ea011033458da9aca971c663126d73",
+  "name": "PepePunk #118",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 117,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Lady Pirate Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy Eyes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Brown Wavy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Diamond Grill"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Lady Gold Crucifix"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Uzi"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Demon Wings"
+    },
+        {
+          "trait_type": "Class",
+          "value": "Rare"
+        }
+  ]
+},
+{
+  "ethscription_id": "0x091199a537b53e26a76a99f5992701d7bfde8f5a0bc99037dc17f4ad8923f03c",
+  "name": "PepePunk #119",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 118,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "FUCK OFF!"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Bomber Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "X-Ray Glasses"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Pirate Beard"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Punks Hoodie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Cutlass"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "None"
+    }
+        {
+          "trait_type": "Class",
+          "value": "Uncommon"
+        }
+  ]
+},
+{
+  "ethscription_id": "0x3be0faebefbb8e12cab7865c0634435d52938e0e38949d9802fbb3ab77588751",
+  "name": "PepePunk #120",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 119,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Pizza"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ethscriptions Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Suit w: Blue Tie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hacker Glasses"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Coke Mustache"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Piggy Banksy Ears"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Rainbow Grill"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Mala"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Cutlass"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "None"
+    },
+        {
+          "trait_type": "Class",
+          "value": "Uncommon"
+        }
+  ]
+},
+{
+  "ethscription_id": "0x2622438c0b8dfa971beec82b3e77cf66fd706a38e92cb33309b6dd88e9a93c15",
+  "name": "PepePunk #121",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 120,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Bitcoin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "#TitsOutForPepe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Snake Eyes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Brown Wavy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Gold Grill"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Lady Gold Crucifix"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Wolverine Claws"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "None"
+    },
+        {
+          "trait_type": "Class",
+          "value": "Uncommon"
+        }
+  ]
+},
+{
+  "ethscription_id": "0xa98a8e5d76d317297d539dd6e68368050c8bad0365cb53dcb054b6e95877509c",
+  "name": "PepePunk #122",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 121,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Trump Suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Eyes"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Soul Patch"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Purple Snapback"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette Left"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Mala"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Fire Energy"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "None"
+    },
+        {
+          "trait_type": "Class",
+          "value": "Uncommon"
+        }
+  ]
+},
+{
+  "ethscription_id": "0x9797cb9e7729ea61bd33e0427dcda029ebd95a3cf4b9cb53089f11a14bc1a557",
+  "name": "PepePunk #123",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 122,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Drumsticks"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ja Rule Rastafari"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Cannabis Leaf T-Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Black Pigtails"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Rainbow Grill"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Gold Crucifix"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Bowie Knife"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "None"
+    },
+        {
+          "trait_type": "Class",
+          "value": "Uncommon"
+        }
+  ]
+},
+{
+  "ethscription_id": "0x423e118abc847a36007ca3f14fd0b5e1f523cb22906cf953960b83951e0d9703",
+  "name": "PepePunk #124",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 123,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Mushroom"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Outer Space"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "#TitsOutForPepe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nouns Noggles"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue-Pigtails"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blunt w/ Lipstick"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Pistol w: Supressor"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "None"
+    },
+        {
+          "trait_type": "Class",
+          "value": "Uncommon"
+        }
+  ]
+},
+{
+  "ethscription_id": "0x8dc15bc0e835570cc0cad927b34797d5e3a0f6d89d58d47a550a562feabd00bf",
+  "name": "PepePunk #125",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 124,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Frog"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Denim Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Eyes"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Soul Patch"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Brown Wavy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Confused"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Mini-Nuke"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Angel Wings"
+    },
+        {
+          "trait_type": "Class",
+          "value": "Rare"
+        }
+  ]
+},
+{
+  "ethscription_id": "0x5764843025740dd8399f3df2627815ca3bfc4d9dc8efe727dbf8ef983c1be855",
+  "name": "PepePunk #126",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 125,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Mickey Mouse"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Cannabis Leaf T-Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Anime Eyes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Make Memes Great Again Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blunt w/ Lipstick"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Wisdom"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Angel Wings"
+    },
+        {
+          "trait_type": "Class",
+          "value": "Rare"
+        }
+  ]
+},
+{
+  "ethscription_id": "0xd5fd4e5e445692d1024cb87fe4397cc089947157367fd8cec35cc8edf9140230",
+  "name": "PepePunk #127",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 126,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Bitcoin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Desert Landscape"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Walt Disney's Suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Eyes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Red Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Peace"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Angel Wings"
+    },
+        {
+          "trait_type": "Class",
+          "value": "Rare"
+        }
+  ]
+},
+{
+  "ethscription_id": "0x0ea4bb256903a8e34f54bf66ca6da34c85fb2250936d61f9f014713b7251ae19",
+  "name": "PepePunk #128",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 127,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Bricks"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Breaking-the-Matrix"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Lady Naked Pepe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Monacle"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blunt w/ Lipstick"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Diamond Necklace"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Brass Knuckles"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Angel Wings"
+    },
+        {
+          "trait_type": "Class",
+          "value": "Rare"
+        }
+  ]
+},
+{
+  "ethscription_id": "0xdf1521394700bee1da053c814b0c3172a8787a47c156245bce0ae630e4691527",
+  "name": "PepePunk #129",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 128,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Puzzle Piece"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rainbow Colors"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Lady Pirate Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot Eyes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Purple Snapback"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Barbed "
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Electric Energy"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "None"
+    },
+        {
+          "trait_type": "Class",
+          "value": "Uncommon"
+        }
+  ]
+},
+{
+  "ethscription_id": "0x7f99cd17fa401d656c5c8ac3f98545e73adf3ef6bd8fdbc1260b477b293410ef",
+  "name": "PepePunk #130",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 129,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "MFpurr"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Naked Pepe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ziggy Stardust"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Soul Patch"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Piggy Banksy Ears"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Gold Crucifix"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Sawed-Off Shotgun"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "None"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Uncommon"
+    }
+  ]
+},
+{
+  "ethscription_id": "0x7C44633446085F35fbEAdd503E0B8d619C74D907",
+  "name": "PepePunk #131",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 130,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Spawning Lab"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Lady Pirate Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Banker Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pink-Pigtails"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Sawed-Off Shotgun"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "None"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "None"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Uncommon"
     }
 
+  ]
+},
+{
+  "ethscription_id": "0x9aa5561bc178a91789831997afeca854e8020fa108cfcdf32ab47ae1b662e148",
+  "name": "PepePunk #132",
+  "description": "",
+  "external_url": "",
+  "background_color": "",
+  "item_index": 131,
+  "item_attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Taco Bell"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Little Black Dress"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart Eyes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Purple Pigtails"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blunt w/ Lipstick"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "$Pepe Ledger"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Dynamite Sticks"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "None"
+    }
+,
+        {
+          "trait_type": "Class",
+          "value": "Uncommon"
+        }
   ]
 }
