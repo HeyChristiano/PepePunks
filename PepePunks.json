@@ -1,7 +1,7 @@
 {
   "name": "PepePunks DAO",
   "description": "PepePunks are more than just digital art. PepePunks are a movement. A protest against the culture vultures that say WAGMI but leave their fellow degens in the dust, holding the bag. Together, we can use our voices & skills to enact change in the Web3 space that we call home. We will show them what it looks like when people stop fighting and start working together.",
-  "total_supply": 132,
+  "total_supply": 187,
   "logo_image_uri": "https://pbs.twimg.com/profile_images/1717602634730020865/mKVHJ6RJ_400x400.jpg",
   "banner_image_uri": "https://pbs.twimg.com/profile_banners/29918127/1698178420/1500x500",
   "background_color": "",
@@ -7414,7 +7414,7 @@
   ]
 },
 {
-  "ethscription_id": "0x7C44633446085F35fbEAdd503E0B8d619C74D907",
+  "ethscription_id": "0xcf8154b5bf1b4c55dbc467ec84fef7afb43c228d85a95000ef7475addbf8cbd6",
   "name": "PepePunk #131",
   "description": "",
   "external_url": "",
@@ -7448,10 +7448,6 @@
     {
       "trait_type": "Weapon",
       "value": "Sawed-Off Shotgun"
-    },
-    {
-      "trait_type": "Wings",
-      "value": "None"
     },
     {
       "trait_type": "Wings",
@@ -8524,7 +8520,7 @@
       ]
     },
     {
-      "ethscription_id": "00000000000000000000",
+      "ethscription_id": "0x65137d0a37352b224552e3a26c8d5146f64398850743badf064184e334ead139",
       "name": "PepePunk #153",
       "description": "",
       "external_url": "",
@@ -9947,6 +9943,10 @@
                                         {
                                           "trait_type": "Wings",
                                           "value": "None"
+                                        },
+                                        {
+                                          "trait_type": "Class",
+                                          "value": "Uncommon"
                                         }
                                 
                                           
@@ -9994,13 +9994,361 @@
                                           "value": "None"
                                         },
                                         {
-                                          "trait_type": "Wings",
-                                          "value": "None"
+                                          "trait_type": "Class",
+                                          "value": "Uncommon"
                                         }
-                                
-                                          
-                             ]
-                 }
+                                      ]
+                                    },
+                                    { 
+                                    "ethscription_id": "0x0389167cc6a35528c9b8c7eaab9a1a1ccd67538e0508f4c4df346710eb69aae9",
+                                    "name": "PepePunk #181  ",
+                                    "description": "",
+                                    "external_url": "",
+                                    "background_color": "",
+                                    "item_index": 180,
+                                    "item_attributes": [
+                                      {
+                                        "trait_type": "Accessory",
+                                        "value": "Pickaxe"
+                                      },
+                                      {
+                                        "trait_type": "Background",
+                                        "value": "Lime Green"
+                                      },
+                                      {
+                                        "trait_type": "Clothing",
+                                        "value": "Little Black Dress"
+                                      },
+                                      {
+                                        "trait_type": "Eyes",
+                                        "value": "Aviators"
+                                      },
+                                      {
+                                        "trait_type": "Hair",
+                                        "value": "Blue-Pigtails"
+                                      },
+                                      {
+                                        "trait_type": "Mouth",
+                                        "value": "Kissy Face"
+                                      },
+                                      {
+                                        "trait_type": "Necklace",
+                                        "value": "Lady Gold Crucifix"
+                                      },
+                                      {
+                                        "trait_type": "Weapon",
+                                        "value": "Magic"
+                                      },
+                                      {
+                                        "trait_type": "Wings",
+                                        "value": "Demon Wings"
+                                      },
+                                      {
+                                        "trait_type": "Class",
+                                        "value": "Rare"
+                                      }
+                                    ]
+                                  },
+                                  { 
+                                  "ethscription_id": "0x052197e8e7fe2cc630021281b929dc61ef8dae2352382311890d59a2f41b5951",
+                                  "name": "PepePunk #182",
+                                  "description": "",
+                                  "external_url": "",
+                                  "background_color": "",
+                                  "item_index": 181,
+                                  "item_attributes": [
+                                    {
+                                      "trait_type": "Accessory",
+                                      "value": "Frog"
+                                    },
+                                    {
+                                      "trait_type": "Background",
+                                      "value": "Somewhere Under the Rainbow"
+                                    },
+                                    {
+                                      "trait_type": "Clothing",
+                                      "value": "Cannabis Leaf T-Shirt"
+                                    },
+                                    {
+                                      "trait_type": "Eyes",
+                                      "value": "Incognito"
+                                    },
+                                    {
+                                      "trait_type": "Facial Hair",
+                                      "value": "Fu Manchu"
+                                    },
+                                    {
+                                      "trait_type": "Hair",
+                                      "value": "Long Blue Mohawk"
+                                    },
+                                    {
+                                      "trait_type": "Mouth",
+                                      "value": "Knife"
+                                    },
+                                    {
+                                      "trait_type": "Necklace",
+                                      "value": "Gold Chain"
+                                    },
+                                    {
+                                      "trait_type": "Weapon",
+                                      "value": "Hacker Laptop"
+                                    },
+                                    {
+                                      "trait_type": "Wings",
+                                      "value": "None"
+                                    },
+                                    {
+                                      "trait_type": "Class",
+                                      "value": "Uncommon"
+                                    }
+                                  ]
+                                },
+                                { 
+                                "ethscription_id": "0x437418c06c1821dfd9e335c4189833af3a29ab66dcde4d031f5e49ace39c7067",
+                                "name": "PepePunk #183",
+                                "description": "",
+                                "external_url": "",
+                                "background_color": "",
+                                "item_index": 182,
+                                "item_attributes": [
+                                  {
+                                    "trait_type": "Accessory",
+                                    "value": "White Rabbit"
+                                  },
+                                  {
+                                    "trait_type": "Background",
+                                    "value": "Blue & Red Gradient"
+                                  },
+                                  {
+                                    "trait_type": "Clothing",
+                                    "value": "Monk Robe"
+                                  },
+                                  {
+                                    "trait_type": "Eyes",
+                                    "value": "VR Headset"
+                                  },
+                                  {
+                                    "trait_type": "Hair",
+                                    "value": "Long Blonde Wavy"
+                                  },
+                                  {
+                                    "trait_type": "Mouth",
+                                    "value": "Kissy Face"
+                                  },
+                                  {
+                                    "trait_type": "Weapon",
+                                    "value": "Hacker Laptop"
+                                  },
+                                  {
+                                    "trait_type": "Wings",
+                                    "value": "Demon Wings"
+                                  },
+                                  {
+                                    "trait_type": "Class",
+                                    "value": "Rare"
+                                  }
+                                ]
+                              },
+                              { 
+                              "ethscription_id": "0xf2e4b7d557019bc259d085b2a5ea843c2891bc087918d9292f37c9e3dd057784",
+                              "name": "PepePunk #184",
+                              "description": "",
+                              "external_url": "",
+                              "background_color": "",
+                              "item_index": 183,
+                              "item_attributes": [
+                                {
+                                  "trait_type": "Accessory",
+                                  "value": "Money Bag"
+                                },
+                                {
+                                  "trait_type": "Background",
+                                  "value": "White"
+                                },
+                                {
+                                  "trait_type": "Clothing",
+                                  "value": "Lab Coat"
+                                },
+                                {
+                                  "trait_type": "Eyes",
+                                  "value": "Aviators"
+                                },
+                                {
+                                  "trait_type": "Hair",
+                                  "value": "Pink-Pigtails"
+                                },
+                                {
+                                  "trait_type": "Mouth",
+                                  "value": "Happy"
+                                },
+                                {
+                                  "trait_type": "Necklace",
+                                  "value": "Barbed "
+                                },
+                                {
+                                  "trait_type": "Weapon",
+                                  "value": "Wizard Staff"
+                                },
+                                {
+                                  "trait_type": "Wings",
+                                  "value": "None"
+                                },
+                                {
+                                  "trait_type": "Class",
+                                  "value": "Uncommon"
+                                }
+                              ]
+                            },
+                            { 
+                            "ethscription_id": "0xa064ecb82ba5f31bc124e2b9c722818e1d185939f64a4c0587d9a161e1df23d2",
+                            "name": "PepePunk #185",
+                            "description": "",
+                            "external_url": "",
+                            "background_color": "",
+                            "item_index": 184,
+                            "item_attributes": [
+                              {
+                                "trait_type": "Accessory",
+                                "value": "Cactus"
+                              },
+                              {
+                                "trait_type": "Background",
+                                "value": "Black"
+                              },
+                              {
+                                "trait_type": "Clothing",
+                                "value": "Suit & Tie"
+                              },
+                              {
+                                "trait_type": "Eyes",
+                                "value": "Anime Eyes"
+                              },
+                              {
+                                "trait_type": "Hat",
+                                "value": "Piggy Banksy Ears"
+                              },
+                              {
+                                "trait_type": "Mouth",
+                                "value": "Blunt w/ Lipstick"
+                              },
+                              {
+                                "trait_type": "Weapon",
+                                "value": "Brass Knuckles"
+                              },
+                              {
+                                "trait_type": "Wings",
+                                "value": "Angel Wings"
+                              },
+                              {
+                                "trait_type": "Class",
+                                "value": "Rare"
+                              }
+                            ]
+                          },
+                          { 
+                          "ethscription_id": "0x561a56192d72257024f68d656aded7b0b1ff394d9f3b5e8b380b983d8849b33d",
+                          "name": "PepePunk #186",
+                          "description": "",
+                          "external_url": "",
+                          "background_color": "",
+                          "item_index": 185,
+                          "item_attributes": [
+                            {
+                              "trait_type": "Accessory",
+                              "value": "Frog"
+                            },
+                            {
+                              "trait_type": "Background",
+                              "value": "Rainbow Colors"
+                            },
+                            {
+                              "trait_type": "Clothing",
+                              "value": "Walt Disney's Suit"
+                            },
+                            {
+                              "trait_type": "Eyes",
+                              "value": "$ Eyes"
+                            },
+                            {
+                              "trait_type": "Hair",
+                              "value": "Black Pigtails"
+                            },
+                            {
+                              "trait_type": "Mouth",
+                              "value": "Bored"
+                            },
+                            {
+                              "trait_type": "Necklace",
+                              "value": "Dice Necklace"
+                            },
+                            {
+                              "trait_type": "Weapon",
+                              "value": "Peace"
+                            },
+                            {
+                              "trait_type": "Wings",
+                              "value": "Angel Wings"
+                            },
+                            {
+                              "trait_type": "Class",
+                              "value": "Uncommon"
+                            }
+                          ]
+                        },
+                        { 
+                        "ethscription_id": "0x96709813d5f30d012e9020c39c48b358cd5982e649f6e01a9925fb7e9e703db3",
+                        "name": "PepePunk #187",
+                        "description": "",
+                        "external_url": "",
+                        "background_color": "",
+                        "item_index": 186,
+                        "item_attributes": [
+                          {
+                            "trait_type": "Accessory",
+                            "value": "Peace"
+                          },
+                          {
+                            "trait_type": "Background",
+                            "value": "White"
+                          },
+                          {
+                            "trait_type": "Clothing",
+                            "value": "Bomber Jacket"
+                          },
+                          {
+                            "trait_type": "Eyes",
+                            "value": "Pit Vipers"
+                          },
+                          {
+                            "trait_type": "Facial Hair",
+                            "value": "Brown Full Beard"
+                          },
+                          {
+                            "trait_type": "Hat",
+                            "value": "Golden Headphones"
+                          },
+                          {
+                            "trait_type": "Mouth",
+                            "value": "Blunt"
+                          },
+                          {
+                            "trait_type": "Necklace",
+                            "value": "Mala"
+                          },
+                          {
+                            "trait_type": "Weapon",
+                            "value": "Wizard Staff"
+                          },
+                          {
+                            "trait_type": "Wings",
+                            "value": "None"
+                          },
+                          {
+                            "trait_type": "Class",
+                            "value": "Uncommon"
+                          }
+                        ]
+                      }
           ]
      
   }
