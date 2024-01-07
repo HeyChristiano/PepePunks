@@ -1,7 +1,7 @@
 {
   "name": "PepePunks DAO",
   "description": "PepePunks are more than just digital art. PepePunks are a movement. A protest against the culture vultures that say WAGMI but leave their fellow degens in the dust, holding the bag. Together, we can use our voices & skills to enact change in the Web3 space that we call home. We will show them what it looks like when people stop fighting and start working together.",
-  "total_supply": 279,
+  "total_supply": 280,
   "logo_image_uri": "https://pbs.twimg.com/profile_images/1717602634730020865/mKVHJ6RJ_400x400.jpg",
   "banner_image_uri": "https://pbs.twimg.com/profile_banners/29918127/1698178420/1500x500",
   "background_color": "",
@@ -14969,6 +14969,60 @@
         {
           "trait_type": "Class",
           "value": "Uncommon"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xa563765c3e1756e15271d7028d4a1118618e74b0e705720e5cab3ad86f035c0c",
+      "name": "PepePunk #280",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 279,
+      "item_attributes": [
+        {
+          "trait_type": "Accessory",
+          "value": "Cannabis Plant"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Teal"
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "Black Hoodie"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Welding Goggles"
+        },
+        {
+          "trait_type": "Facial Hair",
+          "value": "Pencil Stache"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Black & Red Snapback"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Knife"
+        },
+        {
+          "trait_type": "Necklace",
+          "value": "Mala"
+        },
+        {
+          "trait_type": "Weapon",
+          "value": "Wizard Staff"
+        },
+        {
+          "trait_type": "Wings",
+          "value": "Demon Wings"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Rare"
         }
       ]
     }
